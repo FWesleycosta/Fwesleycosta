@@ -1,4 +1,4 @@
-# Olá, pessoal! Eu sou o Wesley Costa 👋
+# Olá, pessoal! Eu sou o Wesley Costa
 
 - 🔧 **Atualmente atuando como DevOps**, focado em automação, infraestrutura como código e práticas de CI/CD.
 - 📚 **Estudando Engenharia de Software**, com ênfase em design de sistemas e boas práticas de desenvolvimento.
@@ -30,7 +30,6 @@ Aqui você encontrará projetos relacionados a DevOps, automação de infraestru
 </div>
 
 ---
-
 ## 📊 GitHub Stats:
 
 <div>
@@ -40,9 +39,8 @@ Aqui você encontrará projetos relacionados a DevOps, automação de infraestru
   </a>
 </div>
 
----
 
-## 🌐 Onde me encontrar:
+## 🌐 Contato:
 
 <div>
   <a href="https://www.linkedin.com/in/fwesley-devops/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
