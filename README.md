@@ -35,8 +35,8 @@ Aqui você encontrará projetos relacionados a DevOps, automação de infraestru
 
 <div>
   <a href="https://github.com/FWesleyCosta">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FWesleyCosta&show_icons=true&bg_color=00000000&theme=dark"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FWesleyCosta&layout=compact&langs_count=7&bg_color=00000000&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FWesleyCosta&show_icons=true&bg_color=00000000"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FWesleyCosta&layout=compact&langs_count=7&bg_color=00000000"/>
   </a>
 </div>
 
